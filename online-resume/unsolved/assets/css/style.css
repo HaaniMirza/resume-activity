@@ -1,0 +1,49 @@
+/* remove this code and add your own! */
+.title {
+  color: #287689;
+  font-size: 28px;
+  margin-bottom: 0;
+}
+
+.para {
+  color: #47596e;
+  font-size: 16px;
+}
+
+.bio {
+  color: #fdfefe;
+  font-size: 36px;
+}
+
+.smallbio {
+  color: #fdfefe;
+  font-size: 18px;
+}
+
+.role {
+  color: #2b2c32;
+  font-size: 18px;
+  float: left;
+  margin-top: 20px;
+}
+
+.range {
+  color: #b1bed2;
+  font-size: 18px;
+  float: right;
+  margin-top: 20px;
+}
+
+.location {
+  color: #b1bed2;
+  font-size: 18px;
+  float: left;
+}
+
+aside {
+  padding: 15px;
+  float: right;
+  background-color: #30879b;
+  padding-bottom: 150px;
+  margin-left: 15px;
+}
